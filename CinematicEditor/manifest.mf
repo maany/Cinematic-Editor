@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.jme3.gde.cinematic
+OpenIDE-Module-Localizing-Bundle: com/jme3/gde/cinematic/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
